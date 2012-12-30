@@ -2,7 +2,7 @@
 ##Maintainer : TDKPS
 pkgname=rdis-lua
 pkgrel=1
-pkgdesc= Scripts for the binary analysis tool rdis - implement GDB support
+pkgdesc="Scripts for the binary analysis tool rdis - implement GDB support"
 pkgver=20121230
 arch=(x86_64)
 url="https://github.com/endeav0r/rdis-lua"
