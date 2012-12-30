@@ -5,6 +5,8 @@ http://github.com/endeav0r/rdis
 * INSTALLATION                                          *
 ********************************************************/
 
+// Package Available At AUR : https://aur.archlinux.org/packages/rdis-lua/
+
 // REQUIREMENTS (in addition to rdis)
     * luasocket
     pacman -S lua51-socket
